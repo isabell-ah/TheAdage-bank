@@ -1,0 +1,5 @@
+// ─── CARDS ───────────────────────────────────────────────────────────────────
+// A card is a physical payment instrument linked to an account.
+// cardType = Debit Card / Credit Card (what the card IS)
+// network  = VISA / Mastercard (the payment network)
+// accountId links it to the account it draws funds from
